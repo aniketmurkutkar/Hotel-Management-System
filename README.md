@@ -1,2 +1,2 @@
-# Hotel-Management-System
-Soft Engg Project
+# This our project Online Hotel-Management-System
+Software Engg Project
